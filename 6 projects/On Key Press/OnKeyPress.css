@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Round{
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-size: medium;
+    width: 100vh;
+    text-align: center;
+}
